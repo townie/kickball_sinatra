@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Basic HTML Page</title>
+    <link rel="stylesheet" href="home.css" />
+  </head>
+
+  <body>
+    <h1>Teams</h1>
+
+    <ul>
+      <% @teams.each do |team| %>
+
+      <li><a href="/<%= team %>" ><%= team%> </a></li>
+
+      <% end %>
+    </ul>
+  </body>
+</html>
