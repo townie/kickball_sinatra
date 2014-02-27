@@ -30,11 +30,7 @@ def get_teams(players)
 end
 
 
-
-
-
 get '/' do
-
  @teams = get_teams(load_players)
  erb :index
 end

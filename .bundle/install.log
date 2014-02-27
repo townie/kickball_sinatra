@@ -1,0 +1,16 @@
+# Logfile created on 2014-02-27 10:11:29 -0500 by logger.rb/44203
+I, [2014-02-27T10:11:29.262696 #93107]  INFO -- : 0:  rack (1.5.2) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-27T10:11:29.263095 #93107]  INFO -- : 0:  rack-protection (1.5.2) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-27T10:11:29.263409 #93107]  INFO -- : 0:  tilt (1.4.1) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-27T10:11:29.263704 #93107]  INFO -- : 0:  sinatra (1.4.4) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-27T10:11:29.263986 #93107]  INFO -- : 0:  bundler (1.5.1) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-02-27T10:24:08.356105 #93217]  INFO -- : 0:  coderay (1.1.0) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-02-27T10:24:08.758517 #93217]  INFO -- : 0:  method_source (0.8.2) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-02-27T10:24:09.196513 #93217]  INFO -- : 0:  slop (3.4.7) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/slop-3.4.7.gemspec
+I, [2014-02-27T10:24:10.487258 #93217]  INFO -- : 0:  pry (0.9.12.6) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-02-27T10:24:10.507687 #93217]  INFO -- : 0:  rack (1.5.2) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-27T10:24:10.508204 #93217]  INFO -- : 0:  rack-protection (1.5.2) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-27T10:24:10.982139 #93217]  INFO -- : 0:  shotgun (0.9) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/shotgun-0.9.gemspec
+I, [2014-02-27T10:24:10.986494 #93217]  INFO -- : 0:  tilt (1.4.1) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-27T10:24:10.987112 #93217]  INFO -- : 0:  sinatra (1.4.4) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-27T10:24:10.987621 #93217]  INFO -- : 0:  bundler (1.5.1) from /Users/keithwebber/.rvm/gems/ruby-2.1.0/specifications/bundler-1.5.1.gemspec
